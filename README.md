@@ -1,6 +1,6 @@
-# 🍕 Dev Pizza's
+# 🍔 Dev Lanche's
 
-Bem-vindo ao repositório da "pizzaria", um site fictício desenvolvido para fins educacionais, demonstrando habilidades em HTML, CSS e responsividade para o curso técnico de Desenvolvimento de Sistemas do SENAI.
+Bem-vindo ao repositório da "lanchonete", um site fictício desenvolvido para fins educacionais, demonstrando habilidades em HTML, CSS e responsividade para o curso técnico de Desenvolvimento de Sistemas do SENAI.
 
 🔗 **Veja o site publicado:**
 [Google.com](https://google.com)
@@ -9,7 +9,7 @@ Bem-vindo ao repositório da "pizzaria", um site fictício desenvolvido para fin
 
 ## 📋 Descrição
 
-O site da "pizzaria", simula a presença online de uma pizzaria fictícia, com seções informativas, cardápio visual, galeria de fotos, localização e formas de contato.
+O site da "lanchonete", simula a presença online de uma lachonete fictícia, com seções informativas, cardápio visual, galeria de fotos, localização e formas de contato.
 
 Este projeto foi desenvolvido com foco em:
 
